@@ -5,8 +5,8 @@
 ### About Me
 
 - 💻 Software developer focused on systems programming and backend development
-- 🔭 Currently working on: *[your current project]*
-- 🌱 Currently learning: *[a skill or technology]*
+- 🔭 Currently working on: **
+- 🌱 Currently learning: **
 - 📫 Open to collaboration, internships, and interesting projects
 
 ### Tech Stack
