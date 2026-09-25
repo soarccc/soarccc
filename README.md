@@ -17,16 +17,9 @@
 
 ### 🎀 a little about me
 
-```c
-struct Sara {
-    char *mood       = "curious & caffeinated";
-    char *currently  = "learning, building, breaking, fixing";
-    char *loves      = "clean code, cozy terminals, pink everything";
-    char *fun_fact   = "i name my variables better than my houseplants";
-};
-```
 
-### 🧁 things i play with
+
+### 🧁 profession
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-FFB3C6?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -41,20 +34,20 @@ struct Sara {
   <img src="https://img.shields.io/badge/Notion-FB6F92?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 📊 my stats (be gentle)
+### 📊 my stats 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=soarccc&show_icons=true&title_color=ff69b4&icon_color=ff8fab&text_color=c9d1d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=soarccc&layout=compact&title_color=ff69b4&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 🌷 my little garden of commits
+### 🌷 commits
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=soarccc&bg_color=00000000&color=ff8fab&line=ff69b4&point=ffd6e8&area=true&area_color=ff69b4&hide_border=true&title_color=ff69b4" alt="activity graph" />
 </p>
 
-### 💌 come say hi
+### 💌 
 
 <p align="center">
   <a href="https://instagram.com/sara.aburub"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
