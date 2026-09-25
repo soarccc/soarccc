@@ -2,17 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,50:ffafcc,100:ff69b4&height=200&section=header&text=Hi,%20I'm%20Sara%20🌸&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=coder%20•%20tinkerer%20•%20professional%20bug%20befriender&descAlignY=58&descSize=16" alt="Hi, I'm Sara" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/soarccc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=520&lines=✨+welcome+to+my+little+corner+of+GitHub;🐧+living+in+the+terminal+(on+purpose);☕+turning+tea+into+code;🌷+segfaults+are+just+plot+twists" alt="typing intro" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soarccc&color=ff69b4&style=flat-square&label=visitors+who+said+hi" alt="profile views" />
-</p>
-
 ---
 
 ### 🎀 a little about me
